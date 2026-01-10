@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seeds/1st.md",
+                "file": "postchristmas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1st"
+              "title": "postchristmas"
             }
           }
         ],
@@ -229,6 +229,7 @@
   },
   "active": "10d548888b360d42",
   "lastOpenFiles": [
+    "Seeds/1st.md",
     "postchristmas.md",
     "Writing Poems in My Car in 2025.md",
     "why-now.md",
@@ -237,7 +238,6 @@
     "TYOV/Immortal/Chapter 1.md",
     "TYOV/Immortal/0_Character Sheet.md",
     "TYOV/David/TYOV1-David.md",
-    "Seeds/1st.md",
     "Seeds",
     "TYOV/David",
     "TYOV/Immortal",
