@@ -5,17 +5,17 @@
   border-radius: 8px;
 }
 
-.weed {
+.seed {
   margin: 1rem 0;
   padding-bottom: 1rem;
   border-bottom: 1px solid var(--border);
 }
 
-.weed:last-child {
+.seed:last-child {
   border-bottom: none;
 }
 
-.weed time {
+.seed time {
   font-size: 0.9rem;
   color: var(--secondary);
 }

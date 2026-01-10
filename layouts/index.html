@@ -7,19 +7,25 @@
 </div>
 {{- end }}
 
-<!-- Your status feed -->
+<!-- Your seeds feed -->
 <div class="status-feed">
-  <h2> Seeds </h2>
-  {{ range first 5 (where .Site.RegularPages "Section" "status") }}
+  <h2>Seeds</h2>
+  {{ range first 5 (where .Site.RegularPages "Section" "seeds") }}
     <div class="seed">
       <time>{{ .Date.Format "Jan 2" }}</time>
       <div>{{ .Content }}</div>
     </div>
   {{ end }}
-  <a href="/status/">All seeds →</a>
+  <a href="/seeds/">All seeds →</a>
 </div>
 
 <!-- Recent blog posts -->
-{{- partial "main.html" . }}
+<div class="post-list">
+  {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+  {{- $pages = where $pages "Section" "!=" "seeds" }}
+  {{- range first 10 $pages }}
+    {{- partial "post_entry.html" . }}
+  {{- end }}
+</div>
 
 {{- end }}
