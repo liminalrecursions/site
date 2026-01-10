@@ -1,35 +1,33 @@
 baseURL = 'https://www.liminalrecursions.com/'
 languageCode = 'en-us'
 title = 'Liminal Recursions'
-theme = ["PaperMod"]
+theme = "stack"
 
-mainSections = ["posts", "seeds"]
-
-#Categories
-category = "categories"
-tag = "tags"
+[pagination]
+pagerSize = 10
 
 [params]
+mainSections = ["posts"]
+description = "Adventures in Social Anatomy"
 
-# Profile section (optional)
-[params.profileMode]
-enabled = true
-title = "Liminal Recursions"
+[params.sidebar]
+emoji = "🌀"
 subtitle = "Adventures in Social Anatomy"
-imageUrl = "/images/profile.png"      # put your image in static/images/
-imageTitle = "Profile Image"
-imageWidth = 240
-imageHeight = 240
 
-[[params.profileMode.buttons]]
-name = "Archive"
-url = "/posts/"
+[params.sidebar.avatar]
+enabled = true
+local = true
+src = "img/profile.jpg"
 
+[params.footer]
+since = 2025
+customText = "©2025 liminalrecursions"
 
-# Comments
-comments = true   # enables comments globally
+[params.comments]
+enabled = true
+provider = "giscus"
 
-[params.giscus]     # Giscus settings
+[params.comments.giscus]
 repo = "intraventions/writing"
 repoID = "R_kgDOQjxv3g"
 category = "General"
@@ -40,35 +38,25 @@ emitMetadata = false
 inputPosition = "bottom"
 theme = "preferred_color_scheme"
 lang = "en"
-crossorigin = "anonymous"
 
-# Theme appearance
-defaultTheme = "auto"        # auto dark/light
-ShowReadingTime = true        # show reading time on posts
-ShowShareButtons = true       # social share buttons
-ShowPostNavLinks = true       # next/prev post links
-ShowBreadCrumbs = true        # breadcrumbs on posts
-ShowCodeCopyButtons = true    # for code snippets
+# Menu 
 
-# Menu / navigation
 [[menu.main]]
+identifier = "home"
 name = "Home"
 url = "/"
 weight = 1
 
 [[menu.main]]
+identifier = "posts"
 name = "Posts"
 url = "/posts/"
 weight = 2
 
 [[menu.main]]
+identifier = "tags"
 name = "Tags"
 url = "/tags/"
 weight = 3
-
-[[menu.main]]
-name = "Categories"
-url = "/categories/"
-weight = 4
-
-
+[menu.main.params]
+icon = "tag"
