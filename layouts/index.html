@@ -1,31 +1,34 @@
 {{- define "main" }}
 
+<!-- Profile section -->
 {{- if .Site.Params.profileMode.enabled }}
 <div class="profile">
   {{- partial "home_info.html" . }}
 </div>
 {{- end }}
 
-<!-- Your seeds feed -->
+<!-- Seeds feed -->
 <div class="status-feed">
   <h2>Seeds</h2>
-  {{ range first 5 (where .Site.RegularPages "Section" "seeds") }}
+  {{- $seeds := where .Site.RegularPages "Section" "seeds" }}
+  {{- range first 5 $seeds }}
     <div class="seed">
       <time>{{ .Date.Format "Jan 2" }}</time>
       <div>{{ .Content }}</div>
     </div>
-  {{ end }}
+  {{- end }}
+  {{- if gt (len $seeds) 0 }}
   <a href="/seeds/">All seeds →</a>
+  {{- end }}
 </div>
 
 <!-- Recent blog posts -->
-{{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
-{{- $pages = where $pages "Section" "!=" "seeds" }}
-{{- if not .Site.Params.profileMode.enabled }}
-<h2>Recent Posts</h2>
-{{- end }}
-{{- range first 10 $pages }}
-  {{- .Render "summary" }}
-{{- end }}
+<div class="post-list">
+  <h2>Recent Posts</h2>
+  {{- $pages := where .Site.RegularPages "Section" "posts" }}
+  {{- range first 10 $pages }}
+    {{- .Render "summary" }}
+  {{- end }}
+</div>
 
 {{- end }}
