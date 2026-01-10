@@ -1,7 +1,6 @@
 {{- define "main" }}
 
 {{- if .Site.Params.profileMode.enabled }}
-<!-- PaperMod's profile section -->
 <div class="profile">
   {{- partial "home_info.html" . }}
 </div>
@@ -20,12 +19,13 @@
 </div>
 
 <!-- Recent blog posts -->
-<div class="post-list">
-  {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
-  {{- $pages = where $pages "Section" "!=" "seeds" }}
-  {{- range first 10 $pages }}
-    {{- partial "post_entry.html" . }}
-  {{- end }}
-</div>
+{{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{- $pages = where $pages "Section" "!=" "seeds" }}
+{{- if not .Site.Params.profileMode.enabled }}
+<h2>Recent Posts</h2>
+{{- end }}
+{{- range first 10 $pages }}
+  {{- .Render "summary" }}
+{{- end }}
 
 {{- end }}
