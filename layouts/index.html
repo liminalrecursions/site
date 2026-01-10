@@ -1,0 +1,25 @@
+{{- define "main" }}
+
+{{- if .Site.Params.profileMode.enabled }}
+<!-- PaperMod's profile section -->
+<div class="profile">
+  {{- partial "home_info.html" . }}
+</div>
+{{- end }}
+
+<!-- Your status feed -->
+<div class="status-feed">
+  <h2> Seeds </h2>
+  {{ range first 5 (where .Site.RegularPages "Section" "status") }}
+    <div class="seed">
+      <time>{{ .Date.Format "Jan 2" }}</time>
+      <div>{{ .Content }}</div>
+    </div>
+  {{ end }}
+  <a href="/status/">All seeds →</a>
+</div>
+
+<!-- Recent blog posts -->
+{{- partial "main.html" . }}
+
+{{- end }}

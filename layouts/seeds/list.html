@@ -1,0 +1,16 @@
+{{- define "main" }}
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+</header>
+
+{{- range .Pages }}
+<article class="post-entry">
+  <header class="entry-header">
+    <time>{{ .Date.Format "January 2, 2006" }}</time>
+  </header>
+  <div class="entry-content">
+    {{ .Content }}
+  </div>
+</article>
+{{- end }}
+{{- end }}

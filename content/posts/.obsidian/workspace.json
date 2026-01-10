@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TYOV/Immortal/Chapter 2.md",
+                "file": "postchristmas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 2"
+              "title": "postchristmas"
             }
           }
         ],
@@ -229,17 +229,19 @@
   },
   "active": "10d548888b360d42",
   "lastOpenFiles": [
+    "Writing Poems in My Car in 2025.md",
+    "why-now.md",
+    "postchristmas.md",
+    "post2.md",
+    "TYOV/Immortal/Chapter 2.md",
     "TYOV/Immortal/Chapter 1.md",
     "TYOV/Immortal/0_Character Sheet.md",
     "TYOV/David/TYOV1-David.md",
-    "TYOV/Immortal/Chapter 2.md",
+    "Seeds/1st.md",
+    "Seeds",
     "TYOV/David",
     "TYOV/Immortal",
     "TYOV",
-    "Writing Poems in My Car in 2025.md",
-    "postchristmas.md",
-    "why-now.md",
-    "hello-world.md",
-    "post2.md"
+    "hello-world.md"
   ]
 }

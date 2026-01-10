@@ -1,0 +1,39 @@
+### CREATE THE POST
+
+> cd ~/myblog
+> hugo new posts/my-new-post.md
+> Change the front matter
+> Write the post
+> Preview locally
+    >hugo server > Click localhost link
+
+### TELL GIT TO WHICH FILES YOU WANT TO INCLUDE IN THE NEXT COMMIT
+
+> git add content/posts/my-new-post.md
+
+
+### COMMIT THE CHANGE
+> git commit -m "Add new post"
+# -m means "message"
+
+### PUSH THE CHANGE
+git push
+
+
+### 
+Think of GitHub + Hugo as a “build-and-publish machine”:
+
+Write → local files only
+
+git add → mark files to include
+
+git commit → snapshot for the machine
+
+git push → send snapshot to GitHub
+
+GitHub Actions → rebuild site → live HTML
+
+Visitors see the new post
+###
+
+

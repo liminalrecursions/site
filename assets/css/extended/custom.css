@@ -1,0 +1,22 @@
+.status-feed {
+  margin: 2rem 0;
+  padding: 1.5rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+
+.weed {
+  margin: 1rem 0;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.weed:last-child {
+  border-bottom: none;
+}
+
+.weed time {
+  font-size: 0.9rem;
+  color: var(--secondary);
+}
+

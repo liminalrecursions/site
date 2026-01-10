@@ -1,7 +1,7 @@
 +++
 title = 'Thousand Year Old Vampire 1: Character Creation'
 date = 2025-12-30T22:10:11-05:00
-draft = true
+draft = false
 categories = ["TTRPG", "Creative-Writing", "role-playing"]
 tags = ["TYOV", "TTRPG"]
 +++
