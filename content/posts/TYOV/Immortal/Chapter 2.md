@@ -2,7 +2,7 @@
 title = 'Chapter 2'
 date = 2026-01-01T22:10:11-05:00
 draft = true
-categories = ["Niall"]
+categories = ["TYOV", "creativewriting"]
 tags = ["TYOV", "TTRPG", "gaming", "solorpg", "creativewriting"]
 +++
 

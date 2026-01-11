@@ -1,0 +1,35 @@
+.widget.reach {
+    .reach-item {
+        margin-bottom: 1.5rem;
+        padding-bottom: 1rem;
+        border-bottom: 1px solid var(--card-separator-color);
+        
+        &:last-child {
+            border-bottom: none;
+        }
+        
+        time {
+            font-size: 0.85rem;
+            color: var(--card-text-color-tertiary);
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+        
+        .reach-content {
+            font-size: 0.95rem;
+            line-height: 1.5;
+            margin-bottom: 0.5rem;
+        }
+        
+        .read-more {
+            font-size: 0.85rem;
+            color: var(--accent-color);
+            text-decoration: none;
+            display: inline-block;
+            
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+    }
+}

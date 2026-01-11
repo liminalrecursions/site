@@ -8,63 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8008a4f35240a3ff",
+            "id": "a89d7620388ecb89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "postchristmas.md",
+                "file": "The Reach/itreachesout.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "postchristmas"
-            }
-          },
-          {
-            "id": "9e2702bb07d19423",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TYOV/David/TYOV1-David.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TYOV1-David"
-            }
-          },
-          {
-            "id": "56f03d640e0845ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TYOV/Immortal/Chapter 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 1"
-            }
-          },
-          {
-            "id": "10d548888b360d42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "postchristmas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "postchristmas"
+              "title": "itreachesout"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,21 +184,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "10d548888b360d42",
+  "active": "a89d7620388ecb89",
   "lastOpenFiles": [
-    "Seeds/1st.md",
-    "postchristmas.md",
-    "Writing Poems in My Car in 2025.md",
-    "why-now.md",
-    "post2.md",
-    "TYOV/Immortal/Chapter 2.md",
-    "TYOV/Immortal/Chapter 1.md",
+    "Meta on Writing posts/markdown-cheat-sheet.md",
+    "Meta on Writing posts/Markdown.md",
+    "The Reach/itreachesout.md",
+    "Meta on Writing posts",
+    "Meta on Writing posts/Creating blog posts.md",
+    "The Reach",
     "TYOV/Immortal/0_Character Sheet.md",
+    "TYOV/Immortal/Chapter 1.md",
+    "TYOV/Immortal/Chapter 2.md",
+    "Hey..md",
+    "postchristmas.md",
+    "what-in-the-world-should-i-know?.md",
+    "TYOV1.md",
     "TYOV/David/TYOV1-David.md",
+    "post2.md",
+    "hello-world.md",
+    "Seeds/1st.md",
+    "Writing Poems in My Car in 2025.md",
     "Seeds",
     "TYOV/David",
     "TYOV/Immortal",
-    "TYOV",
-    "hello-world.md"
+    "TYOV"
   ]
 }

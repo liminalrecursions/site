@@ -2,8 +2,8 @@
 title = 'Chapter 1'
 date = 2026-01-01T22:10:11-05:00
 draft = false
-categories = ["Niall"]
-tags = ["TYOV", "TTRPG", "gaming", "solorpg", "creativewriting"]
+categories = ["TYOV", "creativewriting"]
+tags = ["solorpg", "Niall"]
 +++
 
 *A loved one discovers your condition and works

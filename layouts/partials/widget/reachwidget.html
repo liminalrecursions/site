@@ -1,0 +1,16 @@
+<section class="widget reach">
+    <h2 class="widget-title section-title">The Reach</h2>
+    
+    <div class="widget-reach--list">
+        {{ range first 5 (where site.RegularPages "Section" "reach") }}
+        <article class="reach-item">
+            <time>{{ .Date.Format "Jan 2" }}</time>
+            <div class="reach-content">
+                {{ .Content }}
+            </div>
+        </article>
+        {{ end }}
+    </div>
+    
+    <a href="/reach/" class="reach-view-all">View all →</a>
+</section>

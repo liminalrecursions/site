@@ -28,14 +28,23 @@ enabled = true
 provider = "giscus"
 
 [[params.widgets.homepage]]
-type = "archives"
+type = "reach"
+
+[[params.widgets.homepage]]
+type = "categories"
 [params.widgets.homepage.params]
-limit = 5
+limit = 10
 
 [[params.widgets.homepage]]
 type = "tag-cloud"
 [params.widgets.homepage.params]
 limit = 10
+
+[[params.widgets.homepage]]
+type = "archives"
+[params.widgets.homepage.params]
+limit = 10
+
 
 [params.comments.giscus]
 repo = "intraventions/writing"
