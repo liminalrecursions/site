@@ -4,6 +4,7 @@ date = 2026-01-01T22:10:11-05:00
 draft = false
 categories = ["TYOV", "creativewriting"]
 tags = ["solorpg", "Niall"]
+image = "old-writing.jpg"
 +++
 
 *A loved one discovers your condition and works

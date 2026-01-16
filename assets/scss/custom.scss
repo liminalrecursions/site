@@ -1,0 +1,51 @@
+.widget.reach {
+    .reach-item-link {
+        text-decoration: none;
+        color: inherit;
+        display: block;
+        
+        &:hover .reach-item {
+            border-color: var(--accent-color);
+            transform: translateY(-2px);
+            transition: all 0.2s ease;
+        }
+    }
+    
+    .reach-item {
+        background: var(--card-background);
+        border: 1px solid var(--card-separator-color);
+        border-radius: 8px;
+        padding: 1rem;
+        margin-bottom: 1rem;
+        transition: all 0.2s ease;
+        
+        &:last-child {
+            margin-bottom: 0;
+        }
+        
+        time {
+            font-size: 1.02rem;  // 20% bigger (0.85 * 1.2)
+            color: var(--card-text-color-tertiary);
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+        
+        .reach-content {
+            font-size: 1.14rem;  // 20% bigger (0.95 * 1.2)
+            line-height: 1.5;
+            color: var(--card-text-color-main);
+        }
+    }
+    
+    .reach-view-all {
+        font-size: 0.85rem;
+        color: var(--accent-color);
+        text-decoration: none;
+        display: inline-block;
+        margin-top: 1rem;
+        
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}

@@ -7,9 +7,26 @@
 > Preview locally
     >hugo server > Click localhost link
 
+### HANDLING IMAGES
+
+For previews:
+In the metadata (front matter) include:
+
+image = "cover.jpg"  # or full path like "images/tyov/cover.jpg"
+
+### WHERE DO THEY LIVE
+Option A - Page Bundle (recommended): content/posts/tyov-entry-1/cover.jpg
+Option B - Static folder: static/images/tyov/cover.jpg (then use image = "images/tyov/cover.jpg")
+
+For 
+
 ### TELL GIT TO WHICH FILES YOU WANT TO INCLUDE IN THE NEXT COMMIT
 
 > git add content/posts/my-new-post.md
+
+OR
+
+> git add . # Will include any and all changes rather than a specific file.
 
 
 ### COMMIT THE CHANGE
@@ -35,5 +52,6 @@ GitHub Actions → rebuild site → live HTML
 
 Visitors see the new post
 ###
+
 
 

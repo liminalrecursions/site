@@ -4,7 +4,7 @@ date = 2025-12-30T22:10:11-05:00
 draft = false
 categories = ["Fiction"]
 tags = ["solorpg", "Niall"]
-image = "image.jpg"
+image = "foggypersonbanner.jpg"
 +++
 
 

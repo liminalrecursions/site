@@ -1,3 +1,6 @@
++++
+draft = true
++++
 ### Write the post
 
 Posts need to live in /myblog/content/posts

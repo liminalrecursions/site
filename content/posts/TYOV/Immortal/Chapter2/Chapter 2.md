@@ -4,6 +4,7 @@ date = 2026-01-01T22:10:11-05:00
 draft = true
 categories = ["TYOV", "creativewriting"]
 tags = ["TYOV", "TTRPG", "gaming", "solorpg", "creativewriting"]
+image = "old-writing.jpg"
 +++
 
 *Generations of the same family serve you.This

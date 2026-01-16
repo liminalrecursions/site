@@ -1,11 +1,12 @@
 +++
-title = 'Why Now?'
+title = 'Hey.'
 date = 2025-12-11T09:51:51-05:00
 draft = false
 categories = ["Tech"]
+img = 
 +++
 
-I'm starting a blog, here, at the end of 2025. Why now? Many reasons. Let's start.
+*So I'm starting a blog, here, at the end of 2025. Why now?  Let's find out. Let's start.*
 
 ## The way the world is
 ### Source material: 
