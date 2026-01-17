@@ -80,7 +80,8 @@ Over the next year, as I setup and develop the NAS, my goal is to change how I i
 * Make it intimate and wide-ranging. I used to like to write poetry and fiction. That can be here. I have many hobbies. I can explore and think about them here, each in their own categories. How my Zen practice is going. Woodworking. Electronics and computing. The internet. Music. 
 * Lock it down and ensure as best as possible that it isn't scraped by AI.
 
-### Music
+### Change my media consumption habits
+#### Music habits
 * Get rid of [Spotify premium](https://www.theguardian.com/technology/2025/oct/12/spotify-boycott-artists)
 * Start discovering music again via Bandcamp music criticism sites, and other 
 * Buy an external CD Rom Drive
@@ -91,21 +92,24 @@ Over the next year, as I setup and develop the NAS, my goal is to change how I i
 * Learn about the artists.
 * Listen to full albums, start to finish, especially from artists that still make full albums.
 * Start curating my own playlists again, complete with descriptions.
-
-### TV and Movies
+#### TV and Movies
 * Start buying physical media and loading into the NAS. Thrift shops sell CDs for $2.00. DVDs for $3.00. Sure, I could download any album I want, even legally, but the thrill of the hunt is worth something. I found a copy of the Lord of the Rings: The Two Towers the other day. Do I own Fellowship or Return of the King? Nope, not yet. But it's fun to think that I'll be looking out for them someday.
-
 #### Reading
 * Buy more books, as much as possible from independent and used bookstores.
 * Carry them everywhere. Anytime you think you need to look at your phone. Pick up the book and read a page.
 #### Friends
 * Continue to push friends to move off locked-in apps and towards open-source alternatives. 
-#### [Embrace friction. Reject convenience.](https://www.insidehook.com/wellness/kurt-vonnegut-advice)
-* This deserves its own post, eventually. 
 
-#### Pay attention.
+### Computing
+* Continue learning about self-hosting, home labs, and Linux.
+* Get rid of Microsoft Windows and move to Linux on my desktop
+### [Embrace friction. Reject convenience.](https://www.insidehook.com/wellness/kurt-vonnegut-advice)
+* This deserves its own post, eventually. 
+### Pay attention.
 * Again, another blog post on this. it's not enough that I reclaim my attention from your phone. I need to nurture it, develop it.
 * No more one-earbud-in.
 * [Attention means attention.](https://tricycle.org/magazine/attention-means-attention/)
 
-I've been writing for about three hours. It feels really, really good. But now's a good time to stop. I'm rusty at this stuff. Over the next year I hope I'll get the hang of it. Thanks for following along.
+## Stay tuned.
+
+I've been writing for about three hours. It feels really, really good. It's the most I've written in years, even if a lot of it isn't really good. I'll get the hang of it. Thanks for following along.
