@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c417b6b4e48d1bb7",
+        "id": "75f60495f1d9c597",
         "type": "tabs",
         "children": [
           {
-            "id": "a89d7620388ecb89",
+            "id": "eed3aaeb0afff6e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hey/Hey..md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Hey."
+              "title": "New tab"
             }
           }
         ]
@@ -184,18 +180,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a89d7620388ecb89",
+  "active": "eed3aaeb0afff6e4",
   "lastOpenFiles": [
+    "Hey/index.md",
+    "TYOV/Immortal/CharacterSheet/index.md",
+    "TYOV/Immortal/CharacterSheet/foggypersonbanner.jpg",
+    "TYOV/Immortal/Chapter1/index.md",
+    "TYOV/Immortal/Chapter2/index.md",
+    "TYOV/Immortal/Chapter1/old-writing.jpg",
     "Hey/terminal.png",
     "Hey/blacksquirrel.jpeg",
     "Meta on Writing posts/Creating blog posts.md",
-    "Hey/Hey..md",
     "Hey/warning.gif",
     "Hey/nothingtoseehere.jpg",
-    "TYOV/Immortal/CharacterSheet/0_Character Sheet.md",
-    "TYOV/Immortal/Chapter2/Chapter 2.md",
-    "TYOV/Immortal/Chapter1/old-writing.jpg",
-    "TYOV/Immortal/Chapter1/Chapter 1.md",
     "TYOV/Immortal/Chapter1",
     "TYOV/Immortal/Chaoter1/Chapter 1.md",
     "Meta on Writing posts/markdown-cheat-sheet.md",
