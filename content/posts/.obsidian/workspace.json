@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "choice-overwhelm/choice-overwhelm.md",
+                "file": "TYOV/Immortal/Chapter1/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "choice-overwhelm"
+              "title": "index"
             }
           }
         ]
@@ -186,6 +186,8 @@
   },
   "active": "eed3aaeb0afff6e4",
   "lastOpenFiles": [
+    "TYOV/Immortal/CharacterSheet/featured.jpg",
+    "TYOV/Immortal/Chapter1/featured.jpg",
     "Hey/index.md",
     "choice-overwhelm/choice-overwhelm.md",
     "what-even-is-canada/what-even-is-canada.md",

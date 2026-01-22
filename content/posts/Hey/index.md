@@ -3,7 +3,7 @@ title = 'Hey.'
 date = 2025-12-11T09:51:51-05:00
 draft = false
 categories = ["Tech"]
-image = "nothingtoseehere.jpg"
+feature = "nothingtoseehere.jpg"
 +++
 
 ## resources: 

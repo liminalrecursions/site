@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Writing the fog..."
+title = ""
 
 [params]
   displayName = "English"
@@ -9,13 +9,13 @@ title = "Writing the fog..."
   rtl = false
   dateFormat = "2 January 2006"
   logo = ""
-  description = "Adventures in Social Anatomy."
+  description = "Turning fog into ink."
 
 [params.author]
   name = "Liminal Recursions"
   email = ""
   image = "img/avatar.png"
-  headline = "Adventures in Social Anatomy."
+  headline = "Turning fog into ink."
   bio = ""
   links = [
     { storygraph = "https://app.thestorygraph.com/profile/thesliceiest"},
