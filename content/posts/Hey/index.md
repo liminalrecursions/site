@@ -6,7 +6,7 @@ categories = ["Tech"]
 image = "nothingtoseehere.jpg"
 +++
 
-## Source material: 
+## resources: 
 > - [Never Post Podcast - The Year I Learned to Pay Attention](https://www.neverpo.st/the-year-i-learned-to-pay-attention/)
 > - [Never Post Podcast - Don't Do It Yourself](https://www.neverpo.st/dont-do-it-yourself/)
 > - [Nathan Laundry - The Attention Economy is Everywhere. Self-hosting is the Escape](https://www.youtube.com/watch?v=PUtG4Zmd_AY&t=1046s)

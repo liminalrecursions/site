@@ -11,10 +11,14 @@
             "id": "eed3aaeb0afff6e4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "choice-overwhelm/choice-overwhelm.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "choice-overwhelm"
             }
           }
         ]
@@ -183,6 +187,12 @@
   "active": "eed3aaeb0afff6e4",
   "lastOpenFiles": [
     "Hey/index.md",
+    "choice-overwhelm/choice-overwhelm.md",
+    "what-even-is-canada/what-even-is-canada.md",
+    "choice-overwhelm",
+    "Meta on Writing posts/Creating blog posts.md",
+    "what-even-is-canada",
+    "Untitled Folder",
     "TYOV/Immortal/CharacterSheet/index.md",
     "TYOV/Immortal/CharacterSheet/foggypersonbanner.jpg",
     "TYOV/Immortal/Chapter1/index.md",
@@ -190,7 +200,6 @@
     "TYOV/Immortal/Chapter1/old-writing.jpg",
     "Hey/terminal.png",
     "Hey/blacksquirrel.jpeg",
-    "Meta on Writing posts/Creating blog posts.md",
     "Hey/warning.gif",
     "Hey/nothingtoseehere.jpg",
     "TYOV/Immortal/Chapter1",

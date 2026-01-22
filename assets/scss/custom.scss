@@ -49,3 +49,12 @@
         }
     }
 }
+/* Push hero/author content down for better parallax effect */
+.relative.flex.flex-col.items-center.justify-center {
+    padding-top: 50vh !important;
+}
+
+/* Push Recent posts section down */
+section > h2 {
+    padding-top: 30vh;
+}

@@ -28,8 +28,25 @@
 [[main]]
   name = "Categories"
   pageRef = "categories"
-  weight = 25
+  weight = 30
 
+[[main]]
+  name = "Fiction"
+  parent = "Categories"
+  pageRef = "categories/fiction"
+  weight = 30
+
+[[main]]
+  name = "Essays & Reflection"
+  parent = "Categories"
+  pageRef = "categories/essays-reflection"
+  weight = 30
+
+[[main]]
+  name = "Poetry"
+  parent = "Categories"
+  pageRef = "categories/poetry"
+  weight = 30
 
 #[[main]]
 #  name = "Test"
@@ -40,7 +57,7 @@
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
- [[footer]]
-   name = "Tags"
-   pageRef = "tags"
-   weight = 10
+# [[footer]]
+ #  name = "Tags"
+  # pageRef = "tags"
+   #weight = 10
