@@ -20,9 +20,10 @@ image = "foggypersonbanner.jpg"
 | Skills                                                           | Checked | Resources                                    |
 | ---------------------------------------------------------------- | ------- | -------------------------------------------- |
 | I can be on my feet for an entire day                            | X       | A wooden spoon passed down by my father      |
-| I have contacts across continents that can procure things for me |         | A trunk of invaluable spices                 |
+| I have contacts across continents that can procure things for me |         | ~~A trunk of invaluable spices~~             |
 | I can negotiate and usually get what I want                      |         | A butcher's knife                            |
 |                                                                  |         | A bottle of fragrance given to me by Isbeil. |
+|                                                                  |         | Servitors of the Lineage                     |
 
 | Characters                                                                             | Marks                                                                                                      |
 | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
