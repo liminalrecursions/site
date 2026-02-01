@@ -1,0 +1,20 @@
+.popout-box {
+  background: var(--color-neutral-100);
+  border-radius: 12px;
+  padding: 2rem;
+  margin: 2rem 0;
+  box-shadow: 
+    0 20px 60px rgba(0, 0, 0, 0.15),
+    0 4px 12px rgba(0, 0, 0, 0.08);
+  transition: transform 0.3s ease;
+}
+
+.popout-box:hover {
+  transform: scale(1.02);
+}
+
+.dark .popout-box {
+  box-shadow: 
+    0 20px 60px rgba(0, 0, 0, 0.3),
+    0 4px 12px rgba(0, 0, 0, 0.15);
+}

@@ -17,7 +17,7 @@
 
 [[main]]
   name = "About"
-  pageRef = "about"
+  url = "/posts/what-is-liminal-recursions/"
   weight = 15
 
 [[main]]
@@ -34,19 +34,19 @@
   name = "Fiction"
   parent = "Categories"
   pageRef = "categories/fiction"
-  weight = 30
+  weight = 31
 
 [[main]]
   name = "Essays & Reflection"
   parent = "Categories"
   pageRef = "categories/essays-reflection"
-  weight = 30
+  weight = 32
 
 [[main]]
   name = "Poetry"
   parent = "Categories"
   pageRef = "categories/poetry"
-  weight = 30
+  weight = 33
 
 #[[main]]
 #  name = "Test"

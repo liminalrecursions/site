@@ -1,11 +1,19 @@
 +++
 draft = true
 +++
-### Write the post
 
-Posts need to live in /myblog/content/posts
-Each post should have its own folder, that way you can put post images in their own folder.
+## In general
+* Each post needs to live in its own folder
+* Each post needs to have front matter
+* Title the post index.md, title the folder with the title or subject of the post
+* Name the post its actual title using the front matter
+## Instructions from the Command line
 
+### Create the folder from the command line
+1. Get into the right directory.
+	1. `cd ~/myblog/content/posts
+2. Create a new folder for the post
+	1. mkdir /
 ### Creating posts from the command line
 1. `cd ~/myblog` 
 	1. `cd` means **change directory.** This brings you to the myblog directory
@@ -14,6 +22,13 @@ Each post should have its own folder, that way you can put post images in their 
 4. Altogether: `hugo new posts/foldername/post-name.md`
 	1. Hugo will create the folder if it doesn't exist yet
 	2. Hugo will create the markdown file as well.
+
+
+### Write the post
+
+Posts need to live in /myblog/content/posts
+Each post should have its own folder, that way you can put post images in their own folder.
+
 
 ### Creating posts from your OS
 1. Navigate to `myblog/content/posts/`
@@ -56,6 +71,17 @@ Hugo will know to check the folder first.
 ### Otherwise where can I put pictures?
 * In the Static folder `myblog/static/folder/image.jpg`
 
+### Block Quotes Custom CSS
+
+This is regular text in your post.
+
+{{< popout >}}
+This text will appear in the dramatic pop-out box with heavy shadows!
+
+You can use **bold**, *italics*, and other markdown here.
+{{< /popout >}}
+
+Back to regular text.
 ## Publishing
 
 #### 1. Change draft status
