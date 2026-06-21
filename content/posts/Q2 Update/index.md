@@ -1,13 +1,13 @@
 +++
 title = 'Q2 Update'
-date = 2026-06-22
+date = 2026-06-21
 draft = false
 categories = [""]
 feature = "door3.jpg"
 +++
 
 
-## The Q is for Qurating
+## The Q is for Quratiion
 This isn't what I wanted. I started this blog to write more, because I missed that part of myself. I wanted to try to get back pieces of me that have been swept under a rug for too long. I've made some progress, but not enough.
 
 ## In the weeds
