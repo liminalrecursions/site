@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q1 Update/index.md.md",
+                "file": "Meta on Writing posts/Creating blog posts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index.md"
+              "title": "Creating blog posts"
             }
           }
         ]
@@ -186,9 +186,15 @@
   },
   "active": "eed3aaeb0afff6e4",
   "lastOpenFiles": [
+    "Q2 Update/index.md",
+    "Q2 Update/door3.jpg",
+    "Meta on Writing posts/Creating blog posts.md",
+    "Q2 Update/pexels-drphotographer152-26871131.jpg",
     "Tracing the need for productivity/index.md.md",
     "Q1 Update/index.md.md",
-    "Meta on Writing posts/Creating blog posts.md",
+    "Hey/index.md",
+    "what-even-is-canada/index.md.md",
+    "Q2 Update",
     "poem 2/index.md.md",
     "poem 2",
     "Q1 Update",
@@ -198,7 +204,6 @@
     "What is Liminal Recursions?/decaying-passage3.jpg",
     "What is Liminal Recursions?/fork.png",
     "What is Liminal Recursions?/recursion.webp",
-    "what-even-is-canada/index.md.md",
     "What is Liminal Recursions?/liminal-caf.webp",
     "poem1/index.md.md",
     "TYOV/Immortal/Chapter2/featured.jpg",
@@ -207,19 +212,15 @@
     "Untitled Folder",
     "TYOV/Immortal/Chapter 3/index.md",
     "Tracing the need for productivity",
-    "Hey/index.md",
     "TYOV/Immortal/CharacterSheet/index.md",
     "TYOV/Immortal/Chapter 3/featured.jpg",
     "TYOV/Immortal/Chapter 3/pexels-snapwire-6834.jpg",
     "TYOV/Immortal/Chapter 3",
     "TYOV/Immortal/Chapter1/index.md",
-    "TYOV/Immortal/Chapter2/istockphoto-481035717-612x612.jpg",
-    "TYOV/Immortal/Chapter2/cellar.jpg",
     "Drafting Poetry in my car in 2025/index.md",
     "What is Liminal Recursions?",
     "Drafting Poetry in my car in 2025",
     "choice-overwhelm/choice-overwhelm.md",
-    "choice-overwhelm",
     "TYOV/Immortal/Chaoter1/Chapter 1.md",
     "Meta on Writing posts/markdown-cheat-sheet.md",
     "TYOV/David/TYOV1-David.md",
@@ -229,8 +230,6 @@
     "Hey..md",
     "The Reach/itreachesout.md",
     "Meta on Writing posts/Markdown.md",
-    "postchristmas.md",
-    "what-in-the-world-should-i-know?.md",
-    "TYOV1.md"
+    "postchristmas.md"
   ]
 }

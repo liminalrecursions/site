@@ -9,7 +9,7 @@ image = "featured.jpg"
 
 # 👋
 
-## The Q stands for Querying
+## The Q stands for Query
 I don't know anything about bottom lines nor do I care to right now. 
 ## Music
 My relationship to music has changed in the last three months. It's like I suddenly remembered just how music used to mean to me. Like that idea slipped from my head in the last decade So far I think this is the biggest change.
