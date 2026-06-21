@@ -1,4 +1,11 @@
-
++++
+title = 'untitled'
+date = 2026-01-21T22:10:11-05:00
+draft = true
+categories = ["poetry"]
+tags = [""]
+image = "featured.jpg"
++++
 
 two hundred fifty years ago smart scientists
 so i'm told
